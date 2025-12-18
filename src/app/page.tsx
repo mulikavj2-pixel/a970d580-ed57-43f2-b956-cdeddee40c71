@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import NavbarStyleApple from '@/components/navbar/NavbarStyleApple/NavbarStyleApple';
 import HeroOverlay from '@/components/sections/hero/HeroOverlay';
